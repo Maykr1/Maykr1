@@ -23,9 +23,9 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Maykr1&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykr1&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" />
-  <img height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=Maykr1&theme=great-gatsby&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Maykr1&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maykr1&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Maykr1&theme=great-gatsby&hide_border=true" />
 </p>
 
 ---
