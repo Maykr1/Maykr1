@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🏫 I’m a Computer Science Student @ UofL<br>💼 I work @ Papa John's as a Software Engineering Intern<br>🌱 I’m currently learning about Fullstack Engineering & Application Development
+🏫 I’m a Computer Science Student @ UofL<br>🌱 I’m currently learning about Fullstack Engineering, Application Development, and Cybersecurity
 
 
 ## 🌐 Socials:
