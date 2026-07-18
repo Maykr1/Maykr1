@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🏫 I’m a Computer Science Student @ UofL<br>🌱 I’m currently learning about Fullstack Engineering, Application Development, and Cybersecurity
+🌱 I’m currently learning about Fullstack Engineering, Application Development, and Cybersecurity
 
 ## 💻 Tech Stack:
 
